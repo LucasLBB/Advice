@@ -14,9 +14,7 @@ Com este simples projeto, foi possível entender como consumir uma API em .NET C
 
 ## Como Usar?
 
-Já ouvir falar de Plug and Play?
-
-Caso não, este projeto segue uma ideia parecida é só seguir os passos, como uma receita de bolo!
+É só seguir os passos, como uma receita de bolo!
 
 #### Tecnologias necessárias
 
