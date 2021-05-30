@@ -1,0 +1,13 @@
+﻿header {
+    height: 4rem;
+    background: #8B008B;
+}
+
+#logo {
+    display: flex;
+    text-decoration: none;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    padding: .8rem;
+}
